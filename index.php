@@ -7,7 +7,7 @@
 
                     <?php alertMessage(); ?>
 
-                    <h1 class="mt-3" style="color: white">Sakura Mobile</h1>
+                    <h1 class="mt-3" style="color: white">Company name</h1>
 
                     <?php if(!isset($_SESSION['loggedIn'])) : ?>
                     <a href="login.php" class="btn btn-primary mt-4">LOGIN</a>
